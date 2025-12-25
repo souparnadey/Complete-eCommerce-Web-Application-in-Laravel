@@ -1,0 +1,18 @@
+.social-icons-custom a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 22px;
+    color: #fff;
+    background: #333;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.social-icons-custom a:hover {
+    background: #FF6F00;
+    color: #fff;
+}
