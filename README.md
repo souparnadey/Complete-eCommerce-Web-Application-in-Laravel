@@ -1,5 +1,10 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Laravel](https://img.shields.io/badge/laravel-10-red)
+
 # 🚀 Complete eCommerce Web Application in Laravel
 A production-ready, full-featured **e-commerce solution** built with Laravel (PHP), offering a modern UI & frontend design, full-fledged & secure admin panel with role-based authentication, seamless payment integration and a smooth & user-friendly shopping experience.
+
+This project follows best practices in Laravel architecture, MVC separation, reusable components, and scalable database design — making it ideal for learning, customization, or real deployment.
 
 ---
 
