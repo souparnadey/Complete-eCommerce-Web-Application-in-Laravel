@@ -162,9 +162,13 @@ php artisan serve
 ---
 
 ## 📜 License
-🔹 This project is **MIT Licensed** – Feel free to use & modify!
+🔹 This project is **[MIT Licensed]** – Feel free to use & modify!
 
 ⭐ **If you find this project helpful, don't forget to star it! :)** ⭐
 
 **Thank You ☺️**
+
+---
+
+> Find me on [GitHub](https://github.com/souparnadey/) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/souparna-dey-69a701285/) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/i_am_souparna/) &nbsp;&middot;&nbsp; 
 
