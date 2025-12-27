@@ -151,18 +151,26 @@ php artisan serve
 
 ---
 
+## 🫱🏻‍🫲🏼 Contributing
+
+Have ideas to improve the system? Feel free to:
+
+-   Submit a **Pull Request (PR)**
+-   Create an **Issue** for feature requests or bugs
+
+---
+
 ## 📩 Contact Me
 💼 Need a **Full Stack Laravel Developer**? Let's work together! ☺️
 
-📧 **Email:** deysouparna03@gmail.com  
-📲 **WhatsApp:** +91 80164 19290  
+- 📧 **Email:** deysouparna03@gmail.com   
 
 🔗 **[Hire Me on Linkedin](https://linkedin.com/in/souparna-dey-69a701285/)**
 
 ---
 
 ## 📜 License
-🔹 This project is **[MIT Licensed]** – Feel free to use & modify!
+🔹 This project is **[MIT Licensed](LICENSE)** – Feel free to use & modify!
 
 ⭐ **If you find this project helpful, don't forget to star it! :)** ⭐
 
@@ -170,5 +178,5 @@ php artisan serve
 
 ---
 
-> Find me on [GitHub](https://github.com/souparnadey/) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/souparna-dey-69a701285/) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/i_am_souparna/) &nbsp;&middot;&nbsp; 
+> Find me on:  [GitHub](https://github.com/souparnadey/) &nbsp;&middot;&nbsp; [LinkedIn](https://linkedin.com/in/souparna-dey-69a701285/) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/i_am_souparna/) &nbsp;&middot;&nbsp; 
 
