@@ -7,7 +7,7 @@ use App\Models\Cart;
 use App\Models\Order;
 use App\Models\Shipping;
 use App\User;
-use PDF;
+use Barryvdh\DomPDF\Facade\Pdf;
 use Notification;
 use Helper;
 use Illuminate\Support\Str;
@@ -265,14 +265,21 @@ class OrderController extends Controller
     }
 
     // PDF generate
-    public function pdf(Request $request){
-        $order=Order::getAllOrder($request->id);
-        // return $order;
-        $file_name=$order->order_number.'-'.$order->first_name.'.pdf';
-        // return $file_name;
-        $pdf=PDF::loadview('backend.order.pdf',compact('order'));
+    public function pdf($id)
+    {
+        $order = Order::with([
+            'cart_info.product',
+            'shipping'
+        ])->findOrFail($id);    
+
+        $file_name = $order->order_number . '.pdf'; 
+
+        $pdf = Pdf::loadView('backend.order.pdf', compact('order'))
+            ->setPaper('a4', 'portrait');   
+
         return $pdf->download($file_name);
     }
+
     // Income chart
     public function incomeChart(Request $request){
         $year=\Carbon\Carbon::now()->year;
