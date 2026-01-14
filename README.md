@@ -24,7 +24,7 @@ This project demonstrates a complete, real-world e-commerce workflow including p
 
 ---
 
-## 🌟 Key Features
+## 🌟 Features List
 
 ### 🔹 **Frontend**
 - ⚡ **Progressive Web App (PWA) support**
@@ -52,6 +52,30 @@ This project demonstrates a complete, real-world e-commerce workflow including p
 - 📦 **Order history & tracking**
 - 💬 **Reviews & comments**
 - 🔧 **Profile customization**
+
+## Standout Features
+
+### 🔹 **User Perspective**
+- Users can go from **Browsing → Cart → Checkout → Order confirmation** without friction.
+- **Category, sub-category, Price, Brand filtering** with active **Product search** support.
+- **Wishlist & Cart** support.
+- **Order History & Order Tracking**.
+- Separate **User Profile** section.
+- Responsive UI and **Policies, FAQ, Help** section.
+
+### 🔹 **Admin Perspective**
+- Admins have a **dedicated backend (Secure Authentication)**, separate from users.
+- Admins can manage and control everything without touching code from start to finish.
+    a. **Products, categories , brands, users, posts**
+    b. **Notifications & messages**
+    c. **Homepage banners & CMS pages**
+    d. **Coupons & discounts**
+    e. **Stock & availability**
+    f. **View all orders**
+    g. **Track payment & shipping status**
+    h. **Update order progress**
+    i. **Generate & download professional invoices as pdf with shipping & customer details**
+
 
 ---
 
@@ -155,6 +179,7 @@ Have ideas to improve the system? Feel free to:
 
 -   Submit a **Pull Request (PR)**
 -   Create an **Issue** for feature requests or bugs
+-   **Fork** the repo, make your improvements or bug fixes, and push the changes to your fork
 
 ---
 
