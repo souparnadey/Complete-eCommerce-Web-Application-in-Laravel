@@ -59,8 +59,9 @@ This project demonstrates a complete, real-world e-commerce workflow including p
 - Users can go from **Browsing → Cart → Checkout → Order confirmation** without friction.
 - **Category, sub-category, Price, Brand filtering** with active **Product search** support.
 - **Wishlist & Cart** support.
+- **Reviews & Comments**
 - **Order History & Order Tracking**.
-- Separate **User Profile** section.
+- Separate **User Profile** section with customization options.
 - Responsive UI and **Policies, FAQ, Help** section.
 
 ### 🔹 **Admin Perspective**
