@@ -53,7 +53,7 @@ This project demonstrates a complete, real-world e-commerce workflow including p
 - 💬 **Reviews & comments**
 - 🔧 **Profile customization**
 
-## Standout Features
+## ⚡ Standout Features
 
 ### 🔹 **User Perspective**
 - Users can go from **Browsing → Cart → Checkout → Order confirmation** without friction.
@@ -65,17 +65,16 @@ This project demonstrates a complete, real-world e-commerce workflow including p
 
 ### 🔹 **Admin Perspective**
 - Admins have a **dedicated backend (Secure Authentication)**, separate from users.
-- Admins can manage and control everything without touching code from start to finish.
-    a. **Products, categories , brands, users, posts**
-    b. **Notifications & messages**
-    c. **Homepage banners & CMS pages**
-    d. **Coupons & discounts**
-    e. **Stock & availability**
-    f. **View all orders**
-    g. **Track payment & shipping status**
-    h. **Update order progress**
-    i. **Generate & download professional invoices as pdf with shipping & customer details**
-
+- Admins can manage and control everything without touching code from start to finish:
+  - **Products, categories, brands, users, posts**
+  - **Notifications & messages**
+  - **Homepage banners & CMS pages**
+  - **Coupons & discounts**
+  - **Stock & availability**
+  - **View all orders**
+  - **Track payment & shipping status**
+  - **Update order progress**
+  - **Generate & download professional invoices (PDF) with shipping & customer details**
 
 ---
 
