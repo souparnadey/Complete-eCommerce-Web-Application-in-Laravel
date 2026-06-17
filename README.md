@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/frontend/img/ecom-logo.png" alt="eCom Logo" width="100"/>
+<img src="public/frontend/img/ecom-logo.png" alt="eCom Logo" width="100" height="auto"/>
 
 # 🚀 Complete eCommerce Web Application in Laravel
 ### A Complete Full-Stack E-Commerce Platform Built with Laravel
